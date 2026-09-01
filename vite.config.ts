@@ -9,6 +9,7 @@ export default defineConfig({
     port: 5173,
     strictPort: true,
   },
+  base: '/portfolio/',
   preview: {
     host: '0.0.0.0',
     port: 4173,
